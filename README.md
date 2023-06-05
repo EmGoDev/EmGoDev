@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="/responsive.gif?raw=true" alt="responsive animation" />
+  <img src="/responsive.gif?raw=true" width="85%" alt="responsive animation" />
 </div>
 
 ###
